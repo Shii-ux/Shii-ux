@@ -1,1 +1,2 @@
-###Hi i am Shii-ux
+Hi i am Shii-ux
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
