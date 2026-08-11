@@ -1,3 +1,4 @@
-Hi i am Shii-ux
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+SHII-UX
+My life, my rules. Play whatever I want.
+Student • Developer • Creator
+I like building things, experimenting with code, and making random projects just because I can.
