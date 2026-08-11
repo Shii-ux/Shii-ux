@@ -11,15 +11,11 @@ I like building things, experimenting with code, and making random projects just
 
 What I Do
 
-Web Development
-
-Python Projects
-
-GitHub Automation
-
-UI / Web Experiments
-
-Random Projects
+ •Web Development
+ •Python Projects
+ •GitHub Automation
+ •UI / Web Experiments
+ •Random Projects
 
 Projects
 
